@@ -23,7 +23,7 @@
 "AUTO_SAVE_CONTACTS":
     {
       "description":"Enter yes for your bot to auto save numbers",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 "AUTO_REACT_STATUS":
